@@ -1,0 +1,6 @@
+CHIP Inc{
+    IN a[16];
+
+    PARTS:
+    Inc16(in=a, out=out);
+}
